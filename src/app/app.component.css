@@ -1,0 +1,44 @@
+.container-fluid {
+    background:hsl(218, 23%, 16%);
+    height: 475px;
+    
+
+}
+
+.card {
+ background-color: hsl(217, 19%, 24%);
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    
+    
+}
+
+.card-title{
+    color: hsl(150, 100%, 66%);
+    font-size: 10px;
+}
+
+.card-text{
+    font-family:  Manrope;
+    font-size: 15px;
+    color:hsl(193, 38%, 86%);
+    font-weight: 800;
+}
+
+.btn {
+    margin-right: 0.5rem !important
+}
+
+.btn {
+   
+    color:hsl(150, 100%, 66%);
+}
+
+
+
+
+
+  
+
+
